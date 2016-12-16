@@ -5,7 +5,7 @@ var main=[
     {img:"img/erhuan/fengye.jpg",name:"枫叶",price:"250.00",display:"block",title:"耳环",
         swiper:[
             {src:"img/erhuan/fengye.jpg",w: 500, h: 500}
-        ],index:66},
+        ],index:0},
     
     {img:"img/erhuan/fenlilingxing.jpg",name:"分离菱形",price:"60.00",display:"block",title:"耳环",
         swiper:[
